@@ -5,8 +5,8 @@ apiappname=ShoeCoAPI$(openssl rand -hex 5)
 printf "Setting username and password for Git ... (1/7)\n\n"
 
 
-GIT_USERNAME=gitName$Random
-GIT_EMAIL=a@b.c
+GIT_USERNAME=PatMalakas061392
+GIT_EMAIL=pd.enriquez13@gmail.com
 
 git config --global user.name "$GIT_USERNAME"
 git config --global user.email "$GIT_EMAIL"
